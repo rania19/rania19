@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**rania19/rania19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a new graduate in computer engineering
 - 🌱 I’m currently learning C++.
 - 👯 I’m looking to collaborate on ...
